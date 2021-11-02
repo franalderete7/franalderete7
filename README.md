@@ -20,7 +20,7 @@ Welcome to mi github profile! I am Francisco Alderete. I am a 25-year-old Full S
     <a href="https://api.whatsapp.com/send?phone=5493875525123">
       <img src='https://github.com/lautarort/lautarort/blob/main/img/black-and-white-whatsapp-logo-png-clip-art.png' alt='whatsapp' height='60'>
     </a>
-   <p align="center"> lautarorangil@gmail.com </p>
+   <p align="center"> franalderete7@gmail.com </p>
 </p>
 
 ## Projects 
