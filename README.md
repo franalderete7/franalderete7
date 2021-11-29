@@ -27,7 +27,7 @@ Welcome to mi github profile! I am Francisco Alderete. I am a 25-year-old Full S
 
 ---
 ### Videogames App
-#### Full Stack Individual Project (JavaScript, React, Redux, NodeJS, Express, PostgresSQL, Sequelize, CSS) 
+#### Full Stack Individual Project (JavaScript, HTML, CSS, React, Redux, NodeJS, ExpressJS, PostgresSQL, Sequelize) 
 
 Designed and developed a single web application using RAWG Video Games Database API.
 The app consists of a landing page, a home page where each video game is rendered and a section where the user can create his own game.
@@ -41,7 +41,7 @@ The user can also filter each game by genre and origin, and sort them alphabetic
 ---
  
 ### Todo List
-#### PERN Stack Project (PostgreSQL, Express, React, NodeJS, Bootstrap) 
+#### PERN Stack Project (React, NodeJS, ExpressJS, PostgreSQL, Bootstrap) 
 
 Todo List App where you can add, edit and delete simple todo tasks.
 
