@@ -43,7 +43,7 @@ A search bar is also includes so the user can search each video game by its name
 ### Foods App
 #### Full Stack Individual Project (JavaScript, HTML, CSS, React, Redux, NodeJS, ExpressJS, PostgresSQL, Sequelize) 
 
-Designed and developed a minimalistic single web application using the well-known Spoonacular Database API.
+Designed and developed a minimalist single web application using the well-known Spoonacular Database API.
 The app consists of a landing page, a home page where each recipe is rendered and a section where the user can create his/her own recipe.
 The user can also filter each recipe by diet, and sort them alphabetically and by rating. 
 A search bar is also included so the user can search each recipe by its name.
